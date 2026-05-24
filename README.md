@@ -11,7 +11,7 @@
 Cloud Computing & Networking Enthusiast focused on designing, building, and securing scalable infrastructure using modern cloud technologies.
 
 
-
+![](https://komarev.com/ghpvc/?username=mahmoud3semsamir-dev&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
 <img align="right" alt="Network Engineer" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
