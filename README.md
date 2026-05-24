@@ -1,7 +1,7 @@
 
 # Hi, I'm Mahmoud Asem 👋
 
-![](https://komarev.com/ghpvc/?username=mahmoud3semsamir-dev&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=mahmoud3semsamir-dev&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
 ![Linux](https://img.shields.io/badge/Linux-Admin-black?style=for-the-badge&logo=linux)
@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git)
 
 Cloud Computing & Networking Enthusiast focused on designing, building, and securing scalable infrastructure using modern cloud technologies.
-![](https://komarev.com/ghpvc/?username=mahmoud3semsamir-dev&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
+
 
 
 <img align="right" alt="Network Engineer" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
